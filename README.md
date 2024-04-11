@@ -1,2 +1,2 @@
-# NER-
+# NER
 Name Entity Recognisation
