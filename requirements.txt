@@ -1,2 +1,2 @@
 spacy
-newspaper
+newspaper3k
